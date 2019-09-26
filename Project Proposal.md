@@ -18,7 +18,7 @@ Closely linked to the movement of people is the movement of the money that they 
   - Number of returns with deductions.
   - Investment interest paid amount.  
 
-There are approximately 3,000 counties in the U.S, and depending on the year, the IRS will track from around 70 to 150 different tax related indicators per county.  Our goal is to sift through this data over the 27 available years in order to reveal emerging trends, learn how these indicators vary with respect to each other, and determine which patterns might have a causal relationship with the trends are observed. The ultimate goal in doing so would be to predict, based on the data that is relevant as input, which counties in the U.S. are going to be most vulnerable to seeing their wealth shrink, and which can be expected to have an especially prosperous near future.
+There are approximately 3,000 counties in the U.S, and depending on the year, the IRS will track from around 70 to 150 different tax related indicators per county.  Our goal is to sift through this data over the 27 available years in order to reveal emerging trends, learn how these indicators vary with respect to each other, and determine which patterns might have a causal relationship with the observed trends. The ultimate goal in doing so would be to predict, based on the data that is relevant as input, which counties in the U.S. are going to be most vulnerable to seeing their wealth shrink, and which can be expected to have an especially prosperous near future.
 
 ## Dataset
 
